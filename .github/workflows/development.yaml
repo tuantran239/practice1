@@ -1,4 +1,4 @@
-app: practice-app
+name: practice-app
 on: push
 jobs:
   test:
